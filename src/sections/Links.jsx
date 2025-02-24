@@ -52,7 +52,7 @@ const Links = () => {
           </p>
           <p className="md:text-4xl md:text-center">
             Com formação em Designer Gráfico e experiência, ajudo empresas a
-            transformar suas presenças online, elevando a percepção de valores
+            transformar sua presenças online, elevando a percepção de valores
             de seus produtos e serviços através de designs que não apenas
             impressionam, mas que realmente convertem.
           </p>
