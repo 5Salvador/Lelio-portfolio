@@ -29,7 +29,7 @@ const Links = () => {
         </div>
 
         <div className="flex-col my-20 w-full">
-          <a href="https://www.behance.net/lliochemane" className="">
+          <a href="https://wa.me/qr/J5I3I7FKI3ECN1" className="">
             <img src={image} alt="" className="min-w-full -skew-y-3 " />
           </a>
           <a href="https://www.behance.net/lliochemane" className="">
@@ -51,7 +51,7 @@ const Links = () => {
             O especialista por trás do seu projto
           </p>
           <p className="md:text-4xl md:text-center">
-            com formação em Designer Gráfico e experiência, ajuddo empresas a
+            Com formação em Designer Gráfico e experiência, ajudo empresas a
             transformar suas presenças online, elevando a percepção de valores
             de seus produtos e serviços através de designs que não apenas
             impressionam, mas que realmente convertem.
